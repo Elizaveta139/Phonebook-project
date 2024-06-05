@@ -13,7 +13,7 @@ in a few clicks. The application is built using React and utilizes the following
 The project itself was set up using [Vite](https://vitejs.dev/) and deployed on
 [Versel](https://vercel.com/).
 
-## Welcome to AquaTrack! readme.md(ua)
+## Welcome to Phonebook! readme.md(ua)
 
 Привіт! Ласкаво прошу до місця, де кожне число та кожне ім’я перетворюються на історію, спогад або
 можливість для нового знайомства. Тут ви можете зберігати свої контакти та знаходити потрібні номери
