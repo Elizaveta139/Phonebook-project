@@ -8,6 +8,11 @@
   position: relative;
 }
 
+.logo:hover {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  color: #c7b1a4;
+}
+
 .link {
   display: inline-block;
   text-decoration: none;
@@ -17,11 +22,16 @@
   position: relative;
 }
 
+.link:hover {
+  color: #c7b1a4;
+}
+
 .link.active {
   color: #c9b5a9;
 }
 
 .logo.active {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   color: #c9b5a9;
 }
 

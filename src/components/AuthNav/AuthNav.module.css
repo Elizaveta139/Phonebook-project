@@ -34,6 +34,10 @@
   margin-right: 45px;
 }
 
+.link:hover {
+  background-color: #c7b1a4;
+}
+
 .link.active {
   /* color: #c9b5a9; */
   background-color: rgb(14, 13, 13);
